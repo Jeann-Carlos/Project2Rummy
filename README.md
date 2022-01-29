@@ -1,14 +1,10 @@
 # Project2Rummy-master 
-# El programa se puede correr con 2 argumentos el primero es la cantidad de players AI controlled. El segundo argumento es -h si quieres activar el logger
- 
-por ejemplo: si pongo 0 todos los jugadores serian no AI
+Rummy is a group of matching-card games notable for similar gameplay based on matching cards of the same rank or sequence and same suit. The basic goal in any form of rummy is to build melds which can be either sets (three or four of a kind of the same rank) or runs (three or more sequential cards of the same suit).
 
-sintaxis : el_programa_con_sus_imports_nesesarios.java (cantidad de  AI) (-h para logger)
+The program can be run with 2 arguments the first one is the number of AI controlled players. The second argument is -h if you want to activate the logger 
+for example: if I set 0 all players will be non AI players
 
-# Automaticamente te crea un log.txt en el directorio si el logging esta activo.
+syntax : the_program_with_your_imports_nesesary.java (number of AI) (-h for logger)
 
-# puntos extras
+# Automatically creates a log.txt in the directory if logging is active.
 
-permite runs 
-
-permite elejir cantidad de AI
