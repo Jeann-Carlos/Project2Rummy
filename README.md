@@ -88,14 +88,13 @@ Examples:
 Quick Note:  
 Logs are stored in log.txt on the project directory
   
-![Quicklook](https://drive.google.com/file/d/1CCm9HCLQqsMpquj2dCyKOEIyNfjJ2zk6/view?usp=sharing)  
+![Screenshot 2022-06-10 235238](https://user-images.githubusercontent.com/56929989/173177253-f7f50ebf-3290-48f4-b73d-25db44d42a0c.png)  
   
   #### Setup Crontab: 
    Refer to the set crontab timer section:
    [Set crontab timer](#set-crontab-timer)
    
 
-   ![GitHub Logo](https://i2.wp.com/www.adminschoice.com/wp-content/uploads/2009/12/crontab-layout.png?resize=768%2C341&ssl=1)
   
     
 <!-- CONTACT -->
@@ -117,9 +116,13 @@ Logs are stored in log.txt on the project directory
      - If the cards from the Deck are exhausted, all players count the points remaining in their hands, and the lowest value hand wins (ties are possible!)
 
 
+### User Interface
 
-<!-- ROADMAP -->
-## Taking a Quick look
+![Screenshot 2022-06-11 001238](https://user-images.githubusercontent.com/56929989/173178011-737930a0-4934-4fe4-b538-779123722368.png)
+
+### Laying
+
+
 
 
 
