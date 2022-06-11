@@ -1,11 +1,5 @@
 
 
-
-# Project2Rummy-master 
-Rummy is a group of matching-card games notable for similar gameplay based on matching cards of the same rank or sequence and same suit. The basic goal in any form of rummy is to build melds which can be either sets (three or four of a kind of the same rank) or runs (three or more sequential cards of the same suit). The program can be run with 2 arguments the first one is the number of AI controlled players. The second argument is -h if you want to activate the logger.
-
-
-
 <div id="top"></div>
 
 
@@ -37,8 +31,8 @@ Rummy is a group of matching-card games notable for similar gameplay based on ma
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This project is an interactive version of the Rummy card game. Provided some basic UI code and some random files, the student should construct the game from scratch and structure it using his/her knowledge on Design Patterns and Java programming.
-Rummy is a group of matching-card games notable for similar gameplay based on matching cards of the same rank or sequence and same suit. The basic goal in any form of rummy is to build melds which can be either sets (three or four of a kind of the same rank) or runs (three or more sequential cards of the same suit). 
+Rummy is a collection of matching card games with similar gameplay centered on matching cards of the same rank, sequence, and suit. In any variation of rummy, the purpose is to create melds, which can be sets (three or four of a kind of the same rank) or runs (three or more sequential cards of the same suit).
+This prject is an interactive version of the card game Rummy. This is the work of another project where they supplied some basic UI implementation, I worked only on the implementations of said projet.
 See repository [here](https://github.com/VctorAHernndez/Rummy).
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -62,8 +56,8 @@ See repository [here](https://github.com/VctorAHernndez/Rummy).
    #### Setup Crontab: 
    javac.exe ./proj2.proj2.java
    [Set crontab timer](#set-crontab-timer)
-   ```
-4 To run:  
+   ```  
+4. To run:  
    ```
    java.exe ./proj2.proj2.java
    ```
@@ -75,7 +69,7 @@ The program can be run with 2 arguments the first one is the number of AI contro
 
 General Usage:
  ```
-   java.exe ./proj2.proj2.java [Number of Non-AI players, (0,2) ] [Logging Services, -h ]
+   java.exe ./proj2.proj2.java [Number of Non-AI players, (0,2) ] [Logging Services, -h ] #Logs are stored in log.txt on the project directory
  ```
 
 Examples:
@@ -85,16 +79,11 @@ Examples:
  ```
    java.exe ./proj2.proj2.java 0  # 0 Players (All AI) with no logging service
  ```
-Quick Note:  
-Logs are stored in log.txt on the project directory
-  
-![Screenshot 2022-06-10 235238](https://user-images.githubusercontent.com/56929989/173177253-f7f50ebf-3290-48f4-b73d-25db44d42a0c.png)  
-  
-  #### Setup Crontab: 
-   Refer to the set crontab timer section:
-   [Set crontab timer](#set-crontab-timer)
-   
 
+### Quick View
+![Screenshot 2022-06-10 235238](https://user-images.githubusercontent.com/56929989/173177253-f7f50ebf-3290-48f4-b73d-25db44d42a0c.png)  
+
+  
   
     
 <!-- CONTACT -->
@@ -120,7 +109,6 @@ Logs are stored in log.txt on the project directory
 
 ![Screenshot 2022-06-11 001238](https://user-images.githubusercontent.com/56929989/173178011-737930a0-4934-4fe4-b538-779123722368.png)
 
-### Laying
 
 
 
