@@ -59,7 +59,7 @@ See repository [here](https://github.com/Jeann-Carlos/Project2Rummy-master.git).
    ```
    java.exe ./proj2.proj2.java
    ```
-  
+  <p align="right">(<a href="#top">back to top</a>)</p>
  <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -81,7 +81,7 @@ Examples:
 ### Quick View
 ![Screenshot 2022-06-10 235238](https://user-images.githubusercontent.com/56929989/173177253-f7f50ebf-3290-48f4-b73d-25db44d42a0c.png)  
 
-  
+  <p align="right">(<a href="#top">back to top</a>)</p>
   
     
 <!-- CONTACT -->
@@ -107,7 +107,7 @@ Examples:
 
 ![Screenshot 2022-06-11 001238](https://user-images.githubusercontent.com/56929989/173178011-737930a0-4934-4fe4-b538-779123722368.png)
 
-
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -146,16 +146,14 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+The only references used to construct this project were:
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+1. [Official Java Tutorials & Documentation](https://docs.oracle.com)
+2. [Stack Overflow](https://stackoverflow.com)
+
+I didn't receive any help from other people nor third parties.
+
+I didn't help anyone else in the group, as of the time of writing.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
