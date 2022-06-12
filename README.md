@@ -33,7 +33,7 @@
 ## About The Project
 Rummy is a collection of matching card games with similar gameplay centered on matching cards of the same rank, sequence, and suit. In any variation of rummy, the purpose is to create melds, which can be sets (three or four of a kind of the same rank) or runs (three or more sequential cards of the same suit).
 This prject is an interactive version of the card game Rummy. This is the work of another project where they supplied some basic UI implementation, I worked only on the implementations of said projet.
-See repository [here](https://github.com/VctorAHernndez/Rummy).
+See repository [here](https://github.com/Jeann-Carlos/Project2Rummy-master.git).
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -53,9 +53,7 @@ See repository [here](https://github.com/VctorAHernndez/Rummy).
    ```
 3. Compile the sources
    ```
-   #### Setup Crontab: 
    javac.exe ./proj2.proj2.java
-   [Set crontab timer](#set-crontab-timer)
    ```  
 4. To run:  
    ```
