@@ -5,27 +5,29 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
+## Table of Contents
+
+
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
     <li>
       <a href="#preparation">Preparation</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+     <ul>
+        <li><a href="#quick-view">Quick View</a></li>
+      </ul>
+    <li><a href="#rummy-rules">Rummy Rules</a></li>
+     <ul>
+        <li><a href="#user-interface">User Interface</a></li>
+      </ul>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
-</details>
+
 
 
 
@@ -61,6 +63,8 @@ See repository [here](https://github.com/Jeann-Carlos/Project2Rummy-master.git).
    ```
   <p align="right">(<a href="#top">back to top</a>)</p>
  <!-- USAGE EXAMPLES -->
+ 
+ 
 ## Usage
 
 The program can be run with 2 arguments the first one is the number of AI controlled players. The second argument is -h if you want to activate the logger.  
