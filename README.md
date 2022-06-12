@@ -84,6 +84,7 @@ Examples:
 
 ### Quick View
 ![Screenshot 2022-06-10 235238](https://user-images.githubusercontent.com/56929989/173177253-f7f50ebf-3290-48f4-b73d-25db44d42a0c.png)  
+![Screenshot 2022-06-12 150042](https://user-images.githubusercontent.com/56929989/173255419-1daef927-e04e-4750-9cd9-537eef54b4a9.png)
 
   <p align="right">(<a href="#top">back to top</a>)</p>
   
