@@ -5,7 +5,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
+# Table of Contents
 
 
   <ul>
@@ -32,7 +32,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+# About The Project
 Rummy is a collection of matching card games with similar gameplay centered on matching cards of the same rank, sequence, and suit. In any variation of rummy, the purpose is to create melds, which can be sets (three or four of a kind of the same rank) or runs (three or more sequential cards of the same suit).
 This prject is an interactive version of the card game Rummy. This is the work of another project where they supplied some basic UI implementation, I worked only on the implementations of said projet.
 See repository [here](https://github.com/Jeann-Carlos/Project2Rummy-master.git).
@@ -40,7 +40,7 @@ See repository [here](https://github.com/Jeann-Carlos/Project2Rummy-master.git).
 
 
 
-## Preparation
+# Preparation
 
 1. Clone this repository 
    ```
@@ -65,7 +65,7 @@ See repository [here](https://github.com/Jeann-Carlos/Project2Rummy-master.git).
  <!-- USAGE EXAMPLES -->
  
  
-## Usage
+# Usage
 
 The program can be run with 2 arguments the first one is the number of AI controlled players. The second argument is -h if you want to activate the logger.  
 
@@ -82,7 +82,7 @@ Examples:
    java.exe ./proj2.proj2.java 0  # 0 Players (All AI) with no logging service
  ```
 
-### Quick View
+## Quick View
 ![Screenshot 2022-06-10 235238](https://user-images.githubusercontent.com/56929989/173177253-f7f50ebf-3290-48f4-b73d-25db44d42a0c.png)  
 ![Screenshot 2022-06-10 2365238](https://user-images.githubusercontent.com/56929989/173255419-1daef927-e04e-4750-9cd9-537eef54b4a9.png)
 
@@ -90,7 +90,7 @@ Examples:
   
     
 <!-- CONTACT -->
-## Rummy Rules
+# Rummy Rules
 1. From the stock pile, each player is given 9 cards while the 19th card is moved facup to the discard pile.
 2. Each turn, a player must:
 * Take a card from the deck or stack.
@@ -116,7 +116,7 @@ Examples:
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+# Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -134,7 +134,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE -->
-## License
+# License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
@@ -145,7 +145,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+# Acknowledgments
 
 The only references used to construct this project were:
 
