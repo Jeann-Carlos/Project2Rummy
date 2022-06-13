@@ -8,7 +8,7 @@
 ## Table of Contents
 
 
-  <ol>
+  <ul>
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
@@ -26,7 +26,7 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
+  </ul>
 
 
 
@@ -84,29 +84,25 @@ Examples:
 
 ### Quick View
 ![Screenshot 2022-06-10 235238](https://user-images.githubusercontent.com/56929989/173177253-f7f50ebf-3290-48f4-b73d-25db44d42a0c.png)  
-<img src="https://user-images.githubusercontent.com/56929989/173255419-1daef927-e04e-4750-9cd9-537eef54b4a9.png" alt="Quickview_2" width="1000" height="500">
+![Screenshot 2022-06-10 2365238](https://user-images.githubusercontent.com/56929989/173255419-1daef927-e04e-4750-9cd9-537eef54b4a9.png)
 
   <p align="right">(<a href="#top">back to top</a>)</p>
   
     
 <!-- CONTACT -->
 ## Rummy Rules
-1. Each player is dealt 9 cards from the stock pile (i.e. Deck)
-2. The next card from the Deck is turned face-up and placed in the discard pile (i.e. Stack).
-3. In each turn, a player:
-   1. Draws from the Deck or Stack
-   2. Does some optional actions:
-      - Lay a Set on the table
-      - Lay a Run on the table
-      - Lay cards that fit in Sets or Runs already on the table
-   3. Discards to the Stack
-      - (~~Though, if a player is able to lay all remaining cards on the table at the end of a turn, the discard is optional~~)?
-4. The game is over when either:
-   - One player is out of cards
-     - In which case, said player is crowned winner
-   - The cards from the stock pile are exhausted
-     - If the cards from the Deck are exhausted, all players count the points remaining in their hands, and the lowest value hand wins (ties are possible!)
-
+1. From the stock pile, each player is given 9 cards while the 19th card is moved facup to the discard pile.
+2. Each turn, a player must:
+* Take a card from the deck or stack.
+* Performs a few optional tasks:
+   * Place a Set on the table 
+   *  Place a Run on the table 
+   *   Place cards that fit into existing Sets or Runs
+3. At the end of a turn the player must discard one card to the discard pile.
+4. Ways that the game can end.
+* If one of the players runs out of cards, that person is declared the winner.
+* If the stock pile of cards is depleted 
+* If the Deck is depleted, all players calculate the points left in their hands, and the lowest value hand wins (ties are allowed!)
 
 ### User Interface
 
