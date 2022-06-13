@@ -33,9 +33,12 @@
 
 <!-- ABOUT THE PROJECT -->
 # About The Project
-Rummy is a collection of matching card games with similar gameplay centered on matching cards of the same rank, sequence, and suit. In any variation of rummy, the purpose is to create melds, which can be sets (three or four of a kind of the same rank) or runs (three or more sequential cards of the same suit).
-This prject is an interactive version of the card game Rummy. This is the work of another project where they supplied some basic UI implementation, I worked only on the implementations of said projet.
-See repository [here](https://github.com/Jeann-Carlos/Project2Rummy-master.git).
+Rummy is a popular card game in which the goal is to be the first to get rid of all of your cards by forming melds, which can be sets (three or four cards of the same rank, for example) or runs (three or more cards of the same suit in a sequence, for example). The game may be played with two, three, or four people. Each player receives 10 cards if there are just two players (on our implementation is reduced to 9), and seven cards if there are three or four players.
+This project is an interactive rummy game. This is the work of a different project for which they gave some basic UI implementation, I was fully responsible for that project's implementations.
+
+
+See project instructions [here](https://github.com/Jeann-Carlos/Project2Rummy-master.git).  
+See project skeleton [here](https://piazza.com/class_profile/get_resource/kk4xy8jrsjxcb/kn4wcrcjvqd52y).
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -67,7 +70,7 @@ See repository [here](https://github.com/Jeann-Carlos/Project2Rummy-master.git).
  
 # Usage
 
-The program can be run with 2 arguments the first one is the number of AI controlled players. The second argument is -h if you want to activate the logger.  
+The program accepts two inputs, the first of which is the number of AI-controlled participants. If you wish to use the logger, the second parameter is -h.
 
 General Usage:
  ```
@@ -147,14 +150,14 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- ACKNOWLEDGMENTS -->
 # Acknowledgments
 
-The only references used to construct this project were:
+The following were the sole sources utilized to create this project:
 
-1. [Official Java Tutorials & Documentation](https://docs.oracle.com)
-2. [Stack Overflow](https://stackoverflow.com)
+1. [Oracle's Official Java Tutorials and Documentation](https://docs.oracle.com)
+2. [Stack Overflow](https://stackoverflow.com) (https://stackoverflow.com) (https://stackoverflow.com) (
+3. [Rumm Card Game](https://cardgames.io/rummy)
+I received no assistance from other persons or third parties.
 
-I didn't receive any help from other people nor third parties.
-
-I didn't help anyone else in the group, as of the time of writing.
+As of this writing, I had not assisted anybody else in the group.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
