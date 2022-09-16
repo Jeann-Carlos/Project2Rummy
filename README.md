@@ -155,9 +155,6 @@ The following were the sole sources utilized to create this project:
 1. [Oracle's Official Java Tutorials and Documentation](https://docs.oracle.com)
 2. [Stack Overflow](https://stackoverflow.com)
 3. [Rummy Card Game](https://cardgames.io/rummy)
-I received no assistance from other persons or third parties.
-
-As of this writing, I had not assisted anybody else in the group.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
