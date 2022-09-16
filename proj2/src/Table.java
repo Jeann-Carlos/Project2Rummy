@@ -41,9 +41,9 @@ public class Table extends JFrame implements ActionListener {
         gui_handler.cardDeck = new Deck();
         Game_Logic.numberAI = Integer.parseInt(args[0]);
         try {
-            if(args.length==1)
+            if (args.length == 1)
                 game_Log = new Log("Halo!");
-            else{
+            else {
                 game_Log = new Log(args[1]);
             }
         } catch (Exception exception) {
@@ -205,7 +205,6 @@ public class Table extends JFrame implements ActionListener {
             }
         });
         game_Log.logger.info("player1 currently has:" + gui_handler.p1Hand.toString() + "\nplayer2 currently has:" + gui_handler.p2Hand.toString());
-
 
 
     }
